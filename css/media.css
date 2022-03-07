@@ -1,0 +1,974 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/* header */
+
+.img img {
+    width: 70%;
+}
+.p2 i {
+   
+    font-size: 20px;   
+}
+
+.p2 span {
+    font-size: 18px;
+  
+}
+
+
+
+/* banner */
+
+.banner {
+       background-color: #565555;
+    padding-bottom: 200px;
+}
+
+.lpadding {
+   
+    padding: 0 15px;
+}
+
+.l_con{
+
+    position: absolute;
+}
+.l_con h1 {
+    
+        font-size: 35px;
+    text-align: center;
+    color: #ffffff;
+}
+.l_con h2 {
+
+    font-size: 25px;
+
+  
+    color: #f4f4f4;
+    text-align: center;
+}
+
+
+
+.l_con p {
+    
+    font-size: 19px;
+  
+    color: #ffffff;
+    text-align: center;
+}
+.circle {
+   
+    color: white;
+    height: 140px;
+    width: 140px;
+
+}
+.circle p {
+    
+    font-size: 20px;
+}
+
+.mp{
+
+    position: absolute;
+    margin-top: 100%;
+    padding-top: 70px;
+}
+
+.mt{
+
+        margin-top: -50px;
+}
+
+
+/* contact us */
+
+.c_icon {
+    
+    text-align: center;
+}
+
+.c_con {
+    padding: 28px 0;
+    text-align: center;
+}
+
+.cp1 {
+  
+   
+    font-size: 17px;
+}
+
+.contact {
+    padding: 10px 0;
+    
+}
+
+
+/* service */
+
+
+.sh_con h1 {
+    
+    font-size: 30px;
+  
+    margin-bottom: 20px;
+
+}
+
+
+.ps_con {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.ps_con h1 {
+    font-size: 30px;
+  
+    margin-bottom: 20px;
+
+}
+
+.srv_con {
+    padding: 20px 0px;
+}
+
+.srv_con h1 {
+
+    font-size: 23px;
+    padding-top: 30px;
+    text-align: center;
+    padding-right: 0px;
+}
+.srv_para p {
+    
+    font-size: 16px;
+    padding-top: 22px;    
+    text-align: center;
+}
+
+.fp {
+    padding-left: 0px;
+    padding-bottom: 55px;
+}
+input {
+    width: 100%;
+    padding: 6px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+textarea {
+    height: 122px;
+    width: 100%;
+    /* padding: 12px; */
+    /* border: 1px solid #ccc; */
+    /* border-radius: 4px; */
+    /* box-sizing: border-box; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 20px; */
+    /* resize: vertical; */
+}
+
+.captcha img{
+
+    width: 75%;
+}
+
+.cap {
+    width: 54%;
+    padding: 6px 0px;
+}
+
+.btn-primary {
+    
+    font-size: 18px;
+    font-weight: 700;
+}
+.btn {
+    width: 55%;
+    padding: 8px 5px;
+    text-transform: uppercase;
+}
+
+/* testimonial */
+
+.s_content {
+    margin-top: 65px;
+}
+
+.s_content h1 {
+    padding-bottom: 20px;
+    font-size: 35px;
+  
+}
+.ts_con h1 {
+   
+    font-size: 20px;
+    padding-top: 0px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.cid {
+    bottom: -115px;
+}
+
+
+/* about service */
+.about_sr {
+    padding-top: 30px;
+}
+
+.ab_con h3 {
+   
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+
+.ab_con h1 {
+
+    padding: 0px 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+.ab_con p {
+    padding: 10px 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.list {
+    padding: 0px;
+    font-size: 17px;    
+    padding-left: 37px;
+    line-height: 2;
+}
+
+.pro_h1 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* contact us2 */
+
+.contact2 {
+    padding: 10px 0;
+    
+}
+
+.c2_icon {
+    
+    text-align: center;
+}
+
+.c2_con {
+    padding: 28px 0;
+    text-align: center;
+}
+
+.con1{
+   font-size: 17px;
+}
+.con2 {
+  
+   
+    font-size: 16px;
+}
+
+
+/* footer */
+
+.logo img {
+  
+    width: 60%;
+}
+
+.f_h6 {
+    
+    font-size: 25px;
+   
+    padding: 0 10px;
+}
+/*  */
+
+
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/* header */
+
+.img img {
+    width: 70%;
+}
+.p2 i {
+   
+    font-size: 20px;   
+}
+
+.p2 span {
+    font-size: 18px;
+  
+}
+
+
+
+/* banner */
+
+.banner {
+       background-color: #565555;
+    padding-bottom: 60px;
+}
+
+.lpadding {
+   
+    padding: 0 15px;
+}
+
+.l_con{
+
+    position: absolute;
+}
+.l_con h1 {
+    font-size: 35px;
+    text-align: center;
+    color: #010101;
+    margin-top: 50px;
+    text-align: center;
+}
+.l_con h2 {
+    font-size: 25px;
+    color: #000000;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.l_con p {
+    font-size: 23px;
+    color: #0d0d0d;
+    text-align: center;
+    margin-top: 50px;
+}
+.circle {
+   
+    color: white;
+    height: 140px;
+    width: 140px;
+
+}
+.circle p {
+    
+    font-size: 20px;
+}
+
+.mp {
+    position: absolute;
+    margin-top: 52%;
+    padding-top: 70px;
+    margin-left: 120px;
+}
+.mt{
+
+        margin-top: -50px;
+}
+
+
+/* contact us */
+
+.c_icon {
+    
+    text-align: center;
+}
+
+.c_con {
+    padding: 28px 0;
+    text-align: center;
+}
+
+.cp1 {
+  
+   
+    font-size: 17px;
+}
+
+.contact {
+    padding: 10px 0;
+    
+}
+
+
+/* service */
+
+
+.sh_con h1 {
+    
+    font-size: 30px;
+  
+    margin-bottom: 20px;
+
+}
+
+
+.ps_con {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.ps_con h1 {
+    font-size: 30px;
+  
+    margin-bottom: 20px;
+
+}
+
+.srv_con {
+    padding: 20px 0px;
+}
+
+.srv_con h1 {
+    font-size: 38px;
+    padding-top: 30px;
+    text-align: center;
+    padding-right: 0px;
+}
+.srv_para p {
+    
+    font-size: 16px;
+    padding-top: 22px;    
+    text-align: center;
+}
+
+.fp {
+    padding: 0 80px;
+    padding-bottom: 30px;
+}
+
+input {
+    width: 100%;
+    padding: 6px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+textarea {
+    height: 122px;
+    width: 100%;
+
+}
+
+.captcha img{
+
+    width: 75%;
+}
+
+.cap {
+    width: 65%;
+    padding: 6px 2px;
+}
+.btn-primary {
+    
+    font-size: 18px;
+    font-weight: 700;
+}
+.btn {
+    width: 55%;
+    padding: 8px 5px;
+    text-transform: uppercase;
+}
+
+/* testimonial */
+
+.s_content {
+    margin-top: 65px;
+}
+
+.s_content h1 {
+    padding-bottom: 20px;
+    font-size: 35px;
+  
+}
+.ts_con h1 {
+   
+    font-size: 20px;
+    padding-top: 0px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.cid {
+    bottom: -115px;
+}
+
+
+/* about service */
+.about_sr {
+    padding-top: 30px;
+}
+
+.ab_con h3 {
+   
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+
+.ab_con h1 {
+
+    padding: 0px 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+.ab_con p {
+    padding: 10px 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.list {
+    padding: 0px;
+    font-size: 18px;
+    padding-left: 50px;
+    line-height: 2;
+}
+
+.pro_h1 {
+    margin-bottom: 10px;
+    font-size: 20px;
+   
+}
+
+/* contact us2 */
+
+.contact2 {
+    padding: 10px 0;
+    
+}
+
+.c2_icon {
+    
+    text-align: center;
+}
+
+.c2_con {
+    padding: 28px 0;
+    text-align: center;
+}
+
+.con1{
+   font-size: 17px;
+}
+.con2 {
+  
+   
+    font-size: 16px;
+}
+
+
+/* footer */
+
+.logo img {
+  
+    width: 60%;
+}
+
+.f_h6 {
+    
+    font-size: 25px;
+   
+    padding: 0 10px;
+}
+/*  */
+
+
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/* header */
+
+.banner {
+   
+    padding-bottom: 50px;
+}
+.img img {
+    width: 45%;
+}
+
+
+/* banner  */
+.lpadding {
+    margin-top: 60px;
+    padding: 0 60px;
+}
+
+.l_con h1 {
+   
+    font-size: 40px;
+    
+    
+}
+/* contact */
+.c_icon img {
+    width: 35%;
+}
+
+.c_con {
+    padding: 25px 0;
+}
+
+.cp1 {
+    font-size: 18px;
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+/*  */
+
+.srv_con {
+    padding: 20px 15px;
+}
+.sr_img img {
+    width: 100%;
+    height: 709px;
+}
+.sr2_img img {
+    width: 100%;
+    height: 708px;
+}
+
+.sr2_img img {
+    width: 100%;
+    height: 752px;
+}
+.srv_con h1 {
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    /* text-align: center; */
+    padding-top: 19px;
+    padding-right: 0px;
+}
+
+.srv_para p {
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffffff;
+   
+}
+
+.fp {
+    padding-left: 20px;
+    padding-bottom: 56px;
+}
+
+input {
+    width: 95%;
+    padding: 9px;
+   
+}
+textarea {
+    height: 120px;
+    width: 95%;
+   
+}
+
+.captcha img {
+    width: 80%;
+}
+
+.cap {
+    width: 55%;
+}
+
+.btn {
+    width: 50%;
+    
+}
+
+.btn-primary {
+ 
+    font-size: 18px;
+}
+/* testimonial */
+.s_content {
+    margin-top: 95px;
+}
+
+.s_content h1 {
+    
+    font-size: 40px;
+    }
+
+ .ts_con p {
+ 
+    font-size: 16px;
+   
+}
+
+.cid {
+    bottom: -150px;
+}
+
+
+
+/*about us  */
+.about_sr {
+    padding-top: 45px;
+}
+ }
+.ab_bg {
+    
+    padding-bottom: 40px;
+}
+
+.ab_con h3 {
+    margin-top: 30px;
+    padding: 0 25px;
+    font-family: system-ui;
+    font-size: 23px;
+    font-weight: 500;
+    color: #000000;
+    margin-bottom: 0;
+}
+
+.ab_con h1 {
+    margin-bottom: 20px;
+    padding: 0 22px;
+    font-family: system-ui;
+    font-size: 19px;
+    font-weight: 500;
+    color: #000000;
+}
+
+
+.pro_h1 {
+    margin-bottom: 15px;
+    padding: 0 25px;
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 500;
+    color: #444444;
+    padding-top: 5px;
+}
+.ab_con p {
+    padding: 2px 25px;
+    font-family: system-ui;
+    font-size: 16px;
+    font-weight: 400;
+    color: #444444;
+}
+
+
+.list {
+    margin-bottom: 5px;
+    padding: 3px 47px;
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 400;
+    color: #444444;
+}
+
+
+
+/* contact */
+.c2_icon img {
+    width: 35%;
+}
+
+.c2_con {
+    padding: 25px 0;
+}
+
+.con1 {
+    
+    font-size: 18px;
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+
+
+footer {
+    padding-bottom: 40px;
+    margin-top: 70px;
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+.lpadding {
+    margin-top: 100px;
+    padding: 0 18px;
+}
+.l_con h1 {
+    
+    font-size: 36px;
+
+    color: #38388e;
+    padding: 0 16px;
+}
+
+.l_con h2 {
+   
+    font-size: 22px;
+    margin-bottom: 30px;
+    color: #000000;
+    padding: 0 16px;
+}
+
+.l_con p {
+   
+    font-size: 16px;
+    
+    margin-bottom: 25px;
+    color: #626262;
+    padding: 0 16px;
+}
+
+.r_con img {
+    width: 100%;
+    height: 750px;
+}
+
+.banner {
+    background-color: #e2e2e2;
+    padding-bottom: 100px;
+}
+
+.c_con {
+    padding: 22px 0;
+}
+
+.cp1 {
+    font-family: system-ui;
+    font-size: 18px;
+    /* font-weight: 400; */
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+
+
+
+
+.srv_con {
+    padding: 20px 15px;
+}
+
+.srv_con h1 {
+        font-size: 35px;
+    
+    color: #ffffff;
+    /* text-align: center; */
+    padding-top: 32px;
+    padding-right: 20px;
+}
+
+.srv_para p {
+   
+    font-size: 17px;
+   
+    color: #ffffff;
+    /* text-align: center; */
+    padding-top: 20px;
+    /* padding-right: 2px; */
+}
+
+.fp {
+    padding-left: 15px;
+    padding-bottom: 55px;
+}
+
+input {
+    width: 98%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    resize: vertical;
+    margin-bottom: 8px;
+}
+
+textarea {
+    height: 145px;
+    width: 98%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    /* border-radius: 4px; */
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    resize: vertical;
+}
+
+.captcha img{
+    width: 93%;
+}
+
+.cap {
+    width: 70%;
+}
+
+.btn-primary {
+   
+    font-size: 20px;
+}
+
+.btn {
+    width: 45%;
+    padding: 8px 5px;
+    text-transform: uppercase;
+}
+
+.btn {
+    width: 45%;
+    
+}
+
+
+.sr_img img {
+    width: 100%;
+    height: 810px;
+}
+
+.sr2_img img {
+    width: 100%;
+    height: 532px;
+}
+
+}
+
+
+/* Extra Large devices (extra large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+
+
+}

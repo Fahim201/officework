@@ -1,0 +1,84 @@
+
+
+h_con1----head content 1
+h_con2----head content 2
+
+p1--------para 1
+p2--------para 2
+
+------Banner-----------
+mt--------margin top
+lpadding-----left padding
+l_con--------left content
+mp----------margin padding(for midea query)
+r_con-------right content
+
+
+-------contact us--------
+
+c_icon------contact icon
+c_con-------contact content
+
+cp1------contact para 1
+cp2------contact para 2
+
+
+
+--------service-----------
+
+sh_con------service head content
+s_img------- service image
+sr_img------- service image
+sr_margin-----service margin
+srv_con------- service content
+srv_para------- service para
+
+fp----------form padding
+bt---------- button
+btn--------- button(bootstrap class)
+
+---------testimonial---------
+
+carexind------carouse index/
+
+cid----------carousel indicator
+s_content-------single content
+ts_con-------------testimonial single content
+
+
+------about service---------
+about_sr--------about service
+sr2_img----------service image 2
+ab_con--------about content
+pro_h1--------promises heading1
+
+
+
+----------contact 2-----
+c2_icon--------contact 2 icon
+con1--------contact1
+con2-------contact2
+
+
+--------footer ------
+
+fr_margin-------footer margin
+
+f_h6-----footer heading 6
+f_p1---------footer para 1
+f_p2--------footer para 2
+f_p3-------footer para 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
