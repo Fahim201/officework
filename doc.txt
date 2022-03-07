@@ -77,6 +77,79 @@ f_p3-------footer para 3
 
 
 
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-8 bg_color">
+          <form action="https://formsubmit.co/uddinfahim213@gmail.com" method="POST"method="POST"/>
+
+            <input type="text" id="fname" name="name" placeholder="Your name..">
+
+
+            <input type="email" id="email" name="email" placeholder="Enter Your Email..">
+
+            <input type="text" id="contact" name="contact" placeholder="Contact Number..">
+
+
+
+            <textarea id="subject" name="subject" placeholder="How can I help you?"></textarea>
+
+
+         <div class="row">
+           <div class="col-lg-6">
+            <input id="capt" type="text" name="text" class="form-control" readonly="">
+          </div>
+            
+        <div class="col-lg-6">
+           <input id="texinput" type="text" name="text" class="form-control">
+          
+        </div>
+          
+         </div>
+         
+
+      
+
+            <div class="bt pb-15px">
+
+              <button  onclick="validcap()" type="submit" class="btn btn-primary">Submit Query</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+
+
+
+      <script type="text/javascript">
+        
+        function cap(){
+          var alpha=['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O','P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'a', 'b', 'c', 'd','e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's','t', 'u', 'v', 'w', 'x', 'y', 'z', 0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+          var a = alpha[Math.floor(Math.random)*71];
+          var b = alpha[Math.floor(Math.random)*71];
+          var c = alpha[Math.floor(Math.random)*71];
+          var d = alpha[Math.floor(Math.random)*71];
+          var e = alpha[Math.floor(Math.random)*71];
+          var f = alpha[Math.floor(Math.random)*71];
+
+          var final = a+b+c+d+e+f;
+
+          document.getElementById("capt").value=final;}
+
+          function validcap(){
+
+            var stg1 = document.getElementById('capt').value;
+             var stg2 = document.getElementById('textinput').value;
+             if(stg1==stg2){
+              alert("From is Validated Sucessfully");
+              return true;
+             }
+             elase('please enter valid captcha')
+             return false;
+          }
+
+
+      </script>
 
 
 
